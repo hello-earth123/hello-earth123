@@ -1,4 +1,6 @@
 ## Hi there 👋
+### my name is hello-earth123
+### nice to meet you
 
 <!--
 **hello-earth123/hello-earth123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
