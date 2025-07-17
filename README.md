@@ -6,6 +6,46 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mabr0ther) <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hello-earth123&show_icons=true&theme=github_dark&count_private=true">
 </a>
 
+### Tech
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Advanced ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=badge&logo=docker&logoColor=white">
+</p>
+
+&nbsp;&nbsp;&nbsp;[ Intermediate ]&nbsp;&nbsp;&nbsp;
+<a align="left">
+  <img src="https://img.shields.io/badge/Fsharp-378BBA?style=badge&logo=fsharp&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=badge&logo=opengl&logoColor=black">
+</p>
+
+### Tools
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Editor ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a align="left">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=badge&logo=visual-studio-code&logoColor=22ABF3">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Vim-019733?style=badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=badge&logo=google-colab&logoColor=white">
+</p>
+
+&nbsp;&nbsp;[ Development ]&nbsp;&nbsp;
+<a align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=badge&logo=ngrok&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=badge&logo=firebase&logoColor=white">
+</p>
+
+
 <!--
 **hello-earth123/hello-earth123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
