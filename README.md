@@ -16,7 +16,6 @@
 
 &nbsp;&nbsp;&nbsp;[ AI/Data ]&nbsp;&nbsp;&nbsp;
 <a align="left">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" /> 
