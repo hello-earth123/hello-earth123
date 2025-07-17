@@ -7,20 +7,19 @@
 </a>
 
 ### Tech
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Advanced ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Language ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
 </p>
 
-&nbsp;&nbsp;&nbsp;[ Intermediate ]&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;[ AI/Data ]&nbsp;&nbsp;&nbsp;
 <a align="left">
-  <img src="https://img.shields.io/badge/Fsharp-378BBA?style=badge&logo=fsharp&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=badge&logo=mysql&logoColor=black">
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=badge&logo=opengl&logoColor=black">
-</p>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" /> 
 
 ### Tools
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Editor ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
