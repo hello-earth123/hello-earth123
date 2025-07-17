@@ -43,6 +43,11 @@
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white">
 </p>
 
+# 📌 TimeLine
+[ 2019.03. - 2025.02. ] Seoul University of Science and Technology
+[ 2025.07. - 2026.06. ] ![Samsung](https://img.shields.io/badge/SSAFY-1428A0?&style=for-the-badge&logo=samsung&logoColor=white)  
+
+
 <!--
 **hello-earth123/hello-earth123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
