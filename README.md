@@ -39,19 +39,12 @@
 <a align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=badge&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=badge&logo=ngrok&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=badge&logo=firebase&logoColor=white">
 </p>
 
 [ Communication ]
 <a align="left">
   <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white">
 </p>
 
