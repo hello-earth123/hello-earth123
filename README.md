@@ -45,6 +45,15 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=badge&logo=firebase&logoColor=white">
 </p>
 
+[ Communication ]
+<a align="left">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white">
+</p>
 
 <!--
 **hello-earth123/hello-earth123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
