@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 🌱Junseo 😄
 ### nice to meet you
 - I like music
 - have a nice day
