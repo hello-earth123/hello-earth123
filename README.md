@@ -3,9 +3,7 @@
 - I like music
 - have a nice day
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mabr0ther)
-
-<p align="left">
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mabr0ther) <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hello-earth123&show_icons=true&theme=github_dark&count_private=true">
 </a>
 
