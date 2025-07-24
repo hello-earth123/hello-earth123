@@ -6,6 +6,9 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mabr0ther) <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hello-earth123&show_icons=true&theme=github_dark&count_private=true">
 </a>
 
+<img src="https://topsolved.mayonedev.com/api/boj?handle=mabr0ther&row=25&base_color=platinum">
+</p>
+
 ### Tech
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Language ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left">
