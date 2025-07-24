@@ -44,6 +44,9 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=badge&logo=kakaotalk&logoColor=black">
+  <img src="https://img.shields.io/badge/instagram-FF0069?style=badge&logo=instagram&logoColor=white">
 </p>
 
 # 📌 TimeLine
