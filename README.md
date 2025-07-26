@@ -10,14 +10,14 @@
 </p>
 
 ### Tech
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Language ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Language ]&nbsp;&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
 </p>
 
-&nbsp;&nbsp;&nbsp;[ AI/Data ]&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ AI/Data ]&nbsp;&nbsp;&nbsp;
 <a align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> 
@@ -46,7 +46,9 @@
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white">
   <img src="https://img.shields.io/badge/discord-5865F2?style=badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=badge&logo=kakaotalk&logoColor=black">
-  <img src="https://img.shields.io/badge/instagram-FF0069?style=badge&logo=instagram&logoColor=white">
+<a href="https://instagram.com/papertowel_here" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-FF0069?style=flat&logo=instagram&logoColor=white">
+</a>
 </p>
 
 # 📌 TimeLine
