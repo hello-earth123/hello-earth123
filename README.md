@@ -1,12 +1,17 @@
-## 🌱Junseo 😄
-### nice to meet you
-- I like music
-- have a nice day
+## 🎧 junseo 😄
+<img src="https://img.shields.io/badge/🎵_Music_Lover-9cf?style=flat-square">
+<img src="https://img.shields.io/badge/🌙_Night_Coder-2b2b2b?style=flat-square&logo=github&logoColor=white">
+
+
+### 🎧 Now Playing
+<img src="https://img.shields.io/badge/🎧 Now_Playing_-_jisokuryClub_Neoguri_-1ED760?style=plastic&logo=spotify&logoColor=white"/>
+
+
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mabr0ther) <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hello-earth123&show_icons=true&theme=github_dark&count_private=true">
 </a>
 
-<img src="https://topsolved.mayonedev.com/api/boj?handle=mabr0ther&row=10&base_color=platinum"> <img src="http://mazandi.herokuapp.com/api?handle={mabr0ther}&theme=Dark"/>
+<img src="https://topsolved.mayonedev.com/api/boj?handle=mabr0ther&row=10&base_color=platinum"> <img src="http://mazandi.herokuapp.com/api?handle=mabr0ther&theme=Dark"/>
 </p>
 
 ### Tech
@@ -17,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ AI/Data ]&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ AI/Data ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> 
@@ -47,6 +52,10 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white">
   <img src="https://img.shields.io/badge/discord-5865F2?style=badge&logo=discord&logoColor=white">
+</p>
+
+&nbsp;&nbsp;[ Contact me ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a align="left">
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=badge&logo=kakaotalk&logoColor=black">
 <a href="https://instagram.com/papertowel_here" target="_blank">
   <img src="https://img.shields.io/badge/instagram-FF0069?style=flat&logo=instagram&logoColor=white">
