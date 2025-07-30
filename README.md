@@ -6,7 +6,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mabr0ther) <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hello-earth123&show_icons=true&theme=github_dark&count_private=true">
 </a>
 
-<img src="https://topsolved.mayonedev.com/api/boj?handle=mabr0ther&row=25&base_color=platinum">
+<img src="https://topsolved.mayonedev.com/api/boj?handle=mabr0ther&row=10&base_color=platinum"> <img src="http://mazandi.herokuapp.com/api?handle={mabr0ther}&theme=Dark"/>
 </p>
 
 ### Tech
@@ -21,7 +21,9 @@
 <a align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" /> 
+
 
 ### Tools
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Editor ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
