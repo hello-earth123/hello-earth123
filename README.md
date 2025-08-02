@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/discord-5865F2?style=badge&logo=discord&logoColor=white">
 </p>
 
-&nbsp;&nbsp;[ Contact me ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;[ Contact me ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=badge&logo=kakaotalk&logoColor=black">
 <a href="https://instagram.com/papertowel_here" target="_blank">
@@ -63,7 +63,7 @@
 </p>
 
 # 📌 TimeLine
-[ 2019.03. - 2025.02. ] Seoul University of Science and Technology
+[ 2019.03. - 2025.02. ] Seoul National University of Science and Technology
 
 [ 2025.07. - 2026.06. ] ![Samsung](https://img.shields.io/badge/SSAFY-1428A0?&style=for-the-badge&logo=samsung&logoColor=white)  
 
