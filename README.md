@@ -2,12 +2,10 @@
 <img src="https://img.shields.io/badge/🎵_Music_Lover-9cf?style=flat-square">
 <img src="https://img.shields.io/badge/🌙_Night_Coder-2b2b2b?style=flat-square&logo=github&logoColor=white">
 
-![band gif](https://github.com/hello-earth123/hello-earth123/blob/main/band.gif?raw=true)
-
-
 ### 🎧 Now Playing
 <img src="https://img.shields.io/badge/🎧 Now_Playing_-_jisokuryClub_Neoguri_-1ED760?style=plastic&logo=spotify&logoColor=white"/>
 
+![band gif](https://github.com/hello-earth123/hello-earth123/blob/main/band.gif?raw=true)
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mabr0ther) <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hello-earth123&show_icons=true&theme=github_dark&count_private=true">
