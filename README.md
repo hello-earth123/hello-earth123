@@ -59,7 +59,8 @@
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=badge&logo=kakaotalk&logoColor=black">
 <a href="https://instagram.com/papertowel_here" target="_blank">
   <img src="https://img.shields.io/badge/instagram-FF0069?style=flat&logo=instagram&logoColor=white">
-</a>
+</a> 👈 **Click here!**
+
 </p>
 
 # 📌 TimeLine
