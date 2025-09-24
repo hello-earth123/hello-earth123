@@ -59,6 +59,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Game Engine ]&nbsp;&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Phaser-FCAF17?style=badge&logo=rocket&logoColor=white">
 </p>
 
 
