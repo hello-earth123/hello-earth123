@@ -46,6 +46,8 @@
 <a align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/css-663399?style=badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e?style=badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/vite-%23646CFF?style=badge&logo=vite&logoColor=white">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Framework ]&nbsp;&nbsp;&nbsp;
